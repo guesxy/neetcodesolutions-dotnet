@@ -5,15 +5,12 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string-array-group-anagrams", "string-array-group-anagrams\string-array-group-anagrams.csproj", "{677491E2-2CB4-4615-BC84-464B6BAAEC9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "circular-array-rotation", "circular-array-rotation\circular-array-rotation.csproj", "{480DCC0A-B586-4978-8144-3E9126412E3A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "integer-array-find-numbers-that-make-target", "integer-array-find-numbers-that-make-target\integer-array-find-numbers-that-make-target.csproj", "{480DCC0A-B586-4978-8144-3E9126412E3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{677491E2-2CB4-4615-BC84-464B6BAAEC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -24,5 +21,8 @@ Global
 		{480DCC0A-B586-4978-8144-3E9126412E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{480DCC0A-B586-4978-8144-3E9126412E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{480DCC0A-B586-4978-8144-3E9126412E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal

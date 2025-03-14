@@ -1,23 +1,13 @@
-﻿/*
-    * Complete the 'circularArrayRotation' function below.
-    *
-    * The function is expected to return an INTEGER_ARRAY.
-    * The function accepts following parameters:
-    *  1. INTEGER_ARRAY a
-    *  2. INTEGER k
-    *  3. INTEGER_ARRAY queries
-*/
-
-int[] a = {3,4,5,6};
+﻿int[] a = {3,4,5,6};
         
-Console.WriteLine("Start");
+Console.WriteLine("*** Start ***");
         
 int[] result = TwoSum(a, 7);
 
 foreach (var res in result)
     Console.WriteLine(res);
 
-public static int[] TwoSum(int[] nums, int target) {
+static int[] TwoSum(int[] nums, int target) {
     var map = new Dictionary<int, int>();
     var results = new List<int>();
 

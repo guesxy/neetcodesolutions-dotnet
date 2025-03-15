@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string-array-group-anagrams
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "integer-array-find-numbers-that-make-target", "integer-array-find-numbers-that-make-target\integer-array-find-numbers-that-make-target.csproj", "{480DCC0A-B586-4978-8144-3E9126412E3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contains-duplicate", "contains-duplicate\contains-duplicate.csproj", "{02CB7004-B786-4E7E-B38A-31FD8622084E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sequence-equation", "sequence-equation\sequence-equation.csproj", "{995537B9-3F91-442F-AB0D-FB3D25EEF3ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{480DCC0A-B586-4978-8144-3E9126412E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{480DCC0A-B586-4978-8144-3E9126412E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{480DCC0A-B586-4978-8144-3E9126412E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02CB7004-B786-4E7E-B38A-31FD8622084E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02CB7004-B786-4E7E-B38A-31FD8622084E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02CB7004-B786-4E7E-B38A-31FD8622084E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02CB7004-B786-4E7E-B38A-31FD8622084E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{995537B9-3F91-442F-AB0D-FB3D25EEF3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995537B9-3F91-442F-AB0D-FB3D25EEF3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995537B9-3F91-442F-AB0D-FB3D25EEF3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995537B9-3F91-442F-AB0D-FB3D25EEF3ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

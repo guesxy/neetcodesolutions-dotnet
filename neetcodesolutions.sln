@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sequence-equation", "sequen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "topk-frequent", "topK-frequent\topk-frequent.csproj", "{128AAE8E-1B78-4109-8604-BB00ED09E928}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dfs-search", "dfs-search\dfs-search.csproj", "{EE32DB16-6796-42D6-9F31-A5A4B92658EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{128AAE8E-1B78-4109-8604-BB00ED09E928}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{128AAE8E-1B78-4109-8604-BB00ED09E928}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{128AAE8E-1B78-4109-8604-BB00ED09E928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE32DB16-6796-42D6-9F31-A5A4B92658EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE32DB16-6796-42D6-9F31-A5A4B92658EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE32DB16-6796-42D6-9F31-A5A4B92658EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE32DB16-6796-42D6-9F31-A5A4B92658EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

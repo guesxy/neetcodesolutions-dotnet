@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-var ints = new int[] { 1, 2, 2, 3, 3, 3, 4, 4, 4, 4 };
+﻿var ints = new int[] { 1, 2, 2, 3, 3, 3, 4, 4, 4, 4 };
 
 var res = TopKFrequent(ints, 2);
 
